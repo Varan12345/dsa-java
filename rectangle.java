@@ -20,5 +20,11 @@ public class rectangle {
        Rectangle1 r1=new Rectangle1(10,20);
        System.out.println("Area of rectangle is: "+r1.area());
        System.out.println("Perimeter of rectangle is: "+r1.perimeter());
+
+
+       System.out.println("");
+
+
+
     }
 }
