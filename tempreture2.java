@@ -20,6 +20,6 @@ public class tempreture2 {
         int c=t1.getC();
         int f=(c*9/5)+32;
         System.out.println("tempreture in fahrenheit is: "+f);
-        System.out,print
+        System.out,System.out.println();
     }
 }
