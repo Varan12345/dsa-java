@@ -12,7 +12,7 @@ class c implements A,B{
         System.out.println("Running fun1 with value: "+a);
     }
 }
-
+//
 
 public class multiple_inheritance1 {
     public static void main(String[] args) {
