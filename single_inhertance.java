@@ -14,7 +14,7 @@ class Puppies extends dog{
         System.out.println("This is grand child class");
     }
 }
-
+//
 public class single_inhertance {
 
     public static void main(String[] args) {

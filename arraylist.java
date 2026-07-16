@@ -16,6 +16,7 @@ public class arraylist {
         // System.out.println(list.size());
         // System.out.println(list.contains("Java"));
         // System.out.println(list.isEmpty());
+        //
     }
 
 }
