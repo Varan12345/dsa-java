@@ -30,5 +30,5 @@ public class abstract1 {
         cow1.sound();
         lion1.sound();
     }
-    
+    //
 }
